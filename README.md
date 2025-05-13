@@ -7,7 +7,13 @@
     <link rel="stylesheet" href="style.css">
     <title>Meu portfólio</title>
 </head>
-<body>
+<body> 
+       <img src="img/avatar-perfil.png" alt="avatar da Maria" srcset="">
+       <p>Eu sou Maria_</p>
+       <h1>Eu estudo Programação</h1>
+           <p>Sou estudando do segundo ano do ensino médio. Estudo programação através da plataforma Alura. ! </p>
+
+
     
 </body>
 </html>
