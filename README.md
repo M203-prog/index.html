@@ -11,9 +11,12 @@
        <img src="img/avatar-perfil.png" alt="avatar da Maria" srcset="">
        <p>Eu sou Maria_</p>
        <h1>Eu estudo Programação</h1>
-           <p>Sou estudando do segundo ano do ensino médio. Estudo programação através da plataforma Alura. ! </p>
-
-
-    
+        <p>Sou estudando do segundo ano do ensino médio. Estudo programação através da plataforma Alura. ! </p>
+        <p>MInhas Habilidades</p>
+    <div>
+            <p>HTML</p>
+            <p>P5js</p>
+            <p>Scratch</p>
+    </div>
 </body>
 </html>
